@@ -5,4 +5,5 @@ use (
 	./types
 	./variables
 	./control-structure
+	./arrays-slices-maps
 )
