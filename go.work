@@ -6,4 +6,6 @@ use (
 	./variables
 	./control-structure
 	./arrays-slices-maps
+	./functions
+	./calculator
 )
